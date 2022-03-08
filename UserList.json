@@ -1,0 +1,28 @@
+
+
+{
+    "list1":{
+        "username":"ratnesh123",
+        "password": "12345",
+        "id": 1
+    },
+
+    "list2":{
+        "username":"ratnesh12",
+        "password": "1234",
+        "id": 2
+    },
+    "list5":{
+        "username":"ratnesh",
+        "password": "13653",
+        "id": 10
+    },
+
+    "list4":{
+        "username":"ratneshkr",
+        "password": "12343548589",
+        "id": 20
+    }
+
+    
+}
